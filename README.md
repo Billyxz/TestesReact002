@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tutorials used:
+CSS tips, downloaded and adapted
+https://colorlib.com/wp/template/login-form-v1/  
+You Tube React tutorial, Programador BR channel
+https://www.youtube.com/watch?v=tbLziJchz48&t=1221s
+
 ## Available Scripts
 
 In the project directory, you can run:
